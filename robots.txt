@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://toolnest.example.com
+Sitemap: https://toolnest.example.com/sitemap.xml

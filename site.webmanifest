@@ -1,0 +1,17 @@
+{
+  "name": "QuickPDF",
+  "short_name": "QuickPDF",
+  "description": "Simple, Fast & Private PDF Tools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
